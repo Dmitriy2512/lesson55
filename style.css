@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(64, 84, 172);
+}
+.Bush{
+    text-align: center;
+}
+h1{
+    color: greenyellow;
+    font-size: 30px;
+    margin-left: 30%;
+    margin-top: 45px;
+}
+span{
+    color: rgb(228, 106, 35);
+}
